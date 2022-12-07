@@ -10,14 +10,14 @@ and if investors can get greater insights into their decision making through mac
 We are looking to use Python for price data collection and forecasting- looking at different asset class pairs to see their degree of cointegration.
 
 Assets chosen for preliminary analysis include:
-* Gold          *Twitter      *Euro/USD
-*Crude Oil/USD  *BTC/USD      *NASDAQ
-*TSLA           *SnP500
-*GM             *Phizer
+* Gold       |   *Twitter    |  *Euro/USD
+*Crude Oil/USD | *BTC/USD   |   *NASDAQ
+*TSLA     |      *SnP500
+*GM       |      *Pfizer
 
-Python also offers good scope for Data Visualisation and plotting we we wish to explore in our EDA
+Python also offers good scope for Data Visualisation and plotting we wish to explore in our EDA.
 
-We look to use a mixture of price data and technical indicators such as EMA's Volume etc as inpits to our Modelling
+We look to use a mixture of price data and technical indicators such as EMA's Volume etc as inpits to our Modelling.
 
 The models will be cross validated and optimised.
 
